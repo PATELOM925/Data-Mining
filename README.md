@@ -1,4 +1,4 @@
-# EECS 6412: Data Mining — York University
+# EECS 6412: Data Mining @York University
 
 Graduate coursework and research project for **EECS 6412: Data Mining** at York University, taught by **Prof. Aijun An**. This repository contains implementations, experimental notebooks, reports, and coursework materials covering core data mining algorithms, preprocessing pipelines, classification benchmarks, and graph representation learning.
 
